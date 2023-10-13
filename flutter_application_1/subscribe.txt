@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore key.jks build/app/outputs/flutter-apk/app-release.apk key
